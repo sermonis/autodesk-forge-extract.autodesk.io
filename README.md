@@ -19,6 +19,9 @@
 <b>Note:</b> For using this sample, you need a valid oAuth credential for the translation / extraction portion.
 Visit this [page](https://developer.autodesk.com) for instructions to get on-board.
 
+## Article
+https://forge.autodesk.com/blog/forge-svf-extractor-nodejs
+
 
 ## Live demo from the 'service' branch at
 http://extract.autodesk.io/
